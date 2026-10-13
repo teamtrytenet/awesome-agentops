@@ -178,6 +178,8 @@ Useful approval patterns:
 - [BentoML](https://github.com/bentoml/BentoML) - Framework for building and deploying AI applications.
 - [Modal](https://modal.com/) - Serverless infrastructure for AI and data workloads.
 - [Fly.io](https://fly.io/) - Application runtime useful for globally deployed agent services.
+- [Agent Barn](https://github.com/aai-labs/agent-barn) - Open-source (Apache-2.0) control plane for AI agent teams: chat front ends in Slack, Teams, Telegram, Discord and email, full audit logging of conversations, tool calls and costs; runs agent runtimes like Hermes and OpenClaw on your own Kubernetes cluster via Helm.
+
 
 ## Cloud AgentOps Platforms
 
